@@ -110,7 +110,7 @@ We will focus on ownership and move semantics.
 
 # Structures
 
-[code/basics/closures-iterators]
+[code/basics/structures]
 
 # Generics and Enums
 
